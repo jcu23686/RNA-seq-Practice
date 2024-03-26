@@ -1,0 +1,7 @@
+assembly/F09_fil_NOrRNAstd.gtf
+assembly/D08_fil_NOrRNAstd.gtf
+assembly/E02_fil_NOrRNAstd.gtf
+assembly/E06_fil_NOrRNAstd.gtf
+assembly/E08_fil_NOrRNAstd.gtf
+assembly/F03_fil_NOrRNAstd.gtf
+assembly/F06_fil_NOrRNAstd.gtf
